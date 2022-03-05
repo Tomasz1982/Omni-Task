@@ -1,0 +1,21 @@
+
+.notes-list {
+    text-align: justify-all;
+    margin: 0 auto;
+    padding: 10px;
+    display: block;
+    min-width: 600px;
+    max-width: 80%;
+    background-color: dimgrey;
+    border-radius: 20px;
+    font-size: 20px;
+}
+
+div.note {
+    margin: 10px;
+    word-wrap: break-word;
+    padding: 5px;
+    min-height: 0;
+
+
+}

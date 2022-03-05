@@ -1,0 +1,51 @@
+
+.form {
+    text-align: center;
+    font-size: 20px;
+    margin: 10px auto;
+    min-height: 100px;
+    max-width: 70%;
+    background-color: #61dafb;
+    border-radius: 30px;
+    padding: 10px 10px;
+
+}
+
+textarea.new-note {
+    font-size: 25px;
+    margin: 10px auto;
+    text-align: center;
+    width: 90%;
+    max-width: 100%;
+    min-height: 100px;
+    height: auto;
+    border-radius: 20px;
+
+}
+
+label.checkbox {
+    font-size: 20px;
+    color: #f6820d;
+    font-weight: bold;
+}
+
+input#important.checkbox {
+    height: 20px;
+    width: 20px;
+}
+
+button.add-note-btn {
+    background-color: whitesmoke;
+   padding: 0px;
+}
+
+button.add-note-btn:hover {
+    padding: 1px;
+    color: white;
+    font-size: 22px;
+    text-decoration: none;
+    background-color: #339b3d;
+    transition: 0.4s;
+    box-shadow: 0 0 22px yellow;
+    height: 50px;
+}

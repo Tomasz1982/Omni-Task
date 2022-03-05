@@ -1,0 +1,18 @@
+div.error {
+
+    background-color: indianred;
+}
+
+h1 p{
+    text-transform: lowercase;
+}
+
+button.go-home {
+width: 250px;
+    background-color: yellow;
+}
+button.go-home:hover {
+    width: 250px;
+    background-color: #61dafb;
+    transition: 0.4s;
+}
